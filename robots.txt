@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lifulkinc.github.io/sitemap.html.gz
+Sitemap: https://lifulkinc.github.io/app/sitemap.html.gz
+Sitemap: https://lifulkinc.github.io/assets/sitemap.html.gz
+Sitemap: https://lifulkinc.github.io/css/sitemap.html.gz
+Sitemap: https://lifulkinc.github.io/includes/sitemap.html.gz
+Sitemap: https://lifulkinc.github.io/item/sitemap.html.gz
+Sitemap: https://lifulkinc.github.io/src/sitemap.html.gz
